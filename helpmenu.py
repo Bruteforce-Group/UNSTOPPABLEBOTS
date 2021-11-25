@@ -173,7 +173,7 @@ alive_temxt = f"""
 ║
 ╠═ɴᴇᴛᴡᴏʀᴋ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/LOVELY_NETWORK)
 ║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/UNSTOPPABLETEAM_BOT)
+╠═ᴄʟᴀɴ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/UNSTOPPABLETEAM_BOT)
 ║
 ╚═════════════════╝
 
@@ -193,7 +193,7 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 **『 [{OWNER_NAME}](tg://user?id={OWNER_ID}) 』**
 
 
-**[©️](https://telegra.ph/file/d960a29c64169a00d94ec.jpg) @TeamGladiators**
+**[©️](https://telegra.ph/file/d960a29c64169a00d94ec.jpg) @UNSTOPPABLE_FIGHTERS**
 """
 
 
@@ -215,7 +215,7 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 ║
 ╠═ɴᴇᴛᴡᴏʀᴋ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/LOVELY_NETWORK)
 ║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/UNSTOPPABLETEAM_BOT)
+╠═ᴄʟᴀɴ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/UNSTOPPABLETEAM_BOT)
 ╚═════════════════╝
 
 **[©️](https://telegra.ph/file/d960a29c64169a00d94ec.jpg) @UNSTOPPABLE_FIGHTERS**
