@@ -1,9 +1,9 @@
-<!--This Bot is Made By Gladitors Project-->
+<!--This Bot is Made By Nishith-->
 <p align="center">
   <img src="resources/Gladiators.jpeg" alt="Logo">
 </p>
 
-### 🚀 Gʟᴀᴅɪᴀᴛᴏʀs sᴘᴀᴍᴍᴇʀʙᴏᴛs
+### 🚀 UNSTOPPABLE FIGHTERS
   <a href="https://github.com/Gladiators-Projects"><img alt="Website" src="https://img.shields.io/badge/Gladiators-Projects-blue"></a>
   [![Stars](https://img.shields.io/github/stars/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/stargazers)
   [![Forks](https://img.shields.io/github/forks/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/fork)
