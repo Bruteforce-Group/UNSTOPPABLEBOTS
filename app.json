@@ -1,7 +1,7 @@
 {
-      "name": "spammerbots",
+      "name": "UNSTOPPABLE FORCE",
       "description": "TELEGRAM FASTEST SPAMMERBOTS, Please give it a star  🥺  🥺  🥺 ",
-      "logo": "https://telegra.ph/file/0dbf23f76e6c77d037b42.jpg",
+      "logo": "https://telegra.ph/file/581668c0294a9ac0dd2a5.jpg",
       "keywords": [
          "telegram",
          "Spam-Bot",
@@ -9,7 +9,7 @@
          "Telethon",
          "Gladiators"
       ],   
-   "repository": "https://t.me/Gladiators_Support",
+   "repository": "https://t.me/UNSTOPPABLETEAM_BOT",
    "addons": [
       {
          "options": {
@@ -36,7 +36,7 @@
       },
       "OWNER_NAME": {
          "description": "Owners name to be displayed in alive command.",
-         "value": "@Gladiators_Projects",
+         "value"
          "required": true
       },
       "OWNER_ID": {
