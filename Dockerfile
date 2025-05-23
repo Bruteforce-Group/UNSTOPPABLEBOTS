@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:12.11
 
 ##Docker work
 RUN apt update && apt upgrade -y
